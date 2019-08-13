@@ -1,0 +1,4 @@
+#Mon Aug 12 18:14:37 ICT 2019
+base.0=D\:\\helloword\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex
